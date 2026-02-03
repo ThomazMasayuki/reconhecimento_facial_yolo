@@ -1,26 +1,26 @@
-Sistema de Reconhecimento Facial em Python
+**Sistema de Reconhecimento Facial em Python**
 
 Este projeto implementa um sistema de reconhecimento facial utilizando técnicas de visão computacional e deep learning, permitindo o cadastro e a verificação de rostos de forma automatizada.
 
 O sistema é voltado para cenários controlados e com consentimento, como autenticação de usuários, controle de acesso e validação de identidade (1:1).
 
-📌 Funcionalidades
+**Funcionalidades**
 
-Detecção automática de rostos
+- Detecção automática de rostos
 
-Extração de embeddings faciais
+- Extração de embeddings faciais
 
-Comparação entre rostos (verificação)
+- Comparação entre rostos (verificação)
 
-Sistema de limiar (threshold) configurável
+- Sistema de limiar (threshold) configurável
 
-Suporte para imagens
+- Suporte para imagens
 
-Pronto para extensão com webcam
+- Pronto para extensão com webcam
 
-Armazenamento de assinaturas faciais
+- Armazenamento de assinaturas faciais
 
-🧠 Tecnologias Utilizadas
+**Tecnologias Utilizadas**
 
 Python 3
 
